@@ -1,1 +1,4 @@
-# bank-detail
+# bank-detail 
+all bank details 
+deposites 
+withdraw
